@@ -1,0 +1,18 @@
+,value
+mu,0.1
+genome_length,10
+binaryGenome,True
+d,0.5
+sampling_rate,0.5
+terminate_condition,t[i] > 20
+rho,0.5
+ancestral_genome,"['A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A']"
+mean,0.8
+sigma,0.25
+beta,1
+interval_times,"[5, 10, 20]"
+interval_betas,"[1.0, 0.7, 0.6]"
+end_time,20
+init_S,4999
+init_I,1
+init_R,0
